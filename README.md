@@ -2,6 +2,11 @@
 
 > A vue-webpack-nwjs to create client app project
 
+# look
+!['look'](https://github.com/banana618859/vue-webpack-nwjs-project/blob/master/src/assets/show.png)
+
+
+
 ## Build Setup
 
 ``` bash
