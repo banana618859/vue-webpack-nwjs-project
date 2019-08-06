@@ -1,6 +1,6 @@
 # helloworld
 
-> A Vue.js project
+> A vue-webpack-nwjs to create client app project
 
 ## Build Setup
 
@@ -13,6 +13,10 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+# build for client app,you will see the folder 'releases' be added
+npm run dist
+
 
 # build for production and view the bundle analyzer report
 npm run build --report
